@@ -24,4 +24,6 @@ A desktop productivity application built with Python and Tkinter, designed to he
    ```bash
    git clone [https://github.com/seiffayed/Pomodoro.git](https://github.com/seiffayed/Pomodoro.git)
 3. Make sure the tomato.png file is in the same directory as main.py.
-4. Run the application: python main.py
+4. Run the application:
+   ```bash
+   python main.py
