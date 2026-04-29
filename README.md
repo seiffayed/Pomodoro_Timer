@@ -27,3 +27,6 @@ A desktop productivity application built with Python and Tkinter, designed to he
 4. Run the application:
    ```bash
    python main.py
+---
+## 🎓 Credits
+This project is a part of the **"100 Days of Code: The Complete Python Pro Bootcamp"**
